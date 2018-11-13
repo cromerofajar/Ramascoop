@@ -11,6 +11,10 @@ public class Ramascoop {
      */
     public static void main(String[] args) {
         System.out.println("Este es el primer commit de la rama master.\n Aqui empiezan las ramas");
+        hola obxB=new hola();
+        obxB.hola();
+        ClaseA obxA=new ClaseA();
+        obxA.sumarIlimitado();
     }
     
 }
